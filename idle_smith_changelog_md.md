@@ -18,6 +18,18 @@ The format is based on **Keep a Changelog** and this project adheres to **Semant
 
 ---
 
+## [1.1.0] – 2025-08-27
+### Added
+- **Bulk purchases** for upgrades: **1× / 5× / 10× / 25×** with correct cumulative pricing and disabled state when unaffordable.
+- Header toggle to select purchase quantity (applies to all upgrades).
+
+### Changed
+- Header version display bumped to `v2` for clarity.
+
+### Fixed
+- N/A
+
+
 ## [1.0.0] – 2025-08-27
 ### Added
 - Initial public release: **IdleSmith v1**
