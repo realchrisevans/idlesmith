@@ -18,7 +18,7 @@ The format is based on **Keep a Changelog** and this project adheres to **Semant
 
 ---
 
-## [1.1.0] – 2025-08-27
+## [1.1.0] – 2025-08-30
 ### Added
 - **Bulk purchases** for upgrades: **1× / 5× / 10× / 25×** with correct cumulative pricing and disabled state when unaffordable.
 - Header toggle to select purchase quantity (applies to all upgrades).
